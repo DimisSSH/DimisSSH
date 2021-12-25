@@ -1,5 +1,5 @@
 # Hello, Welcome To DimisSSH's GitHub #
-- 📫 IG: https://instagramm.com/dimis.north/
+- 📫 IG: https://instagram.com/dimis.north/
 - 💻 Proffesion: Networking/Game Development
 - 📵 Website: https://dimis.cf/
 
