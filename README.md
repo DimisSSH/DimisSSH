@@ -25,5 +25,6 @@ Coding Languages I Know:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![JS](https://img.shields.io/badge/JS-%23777BB4.svg?style=for-the-badge&logo=js&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![SQL](https://img.shields.io/badge/DB-SQL-green?style=for-the-badge&logo=DBs&logoColor=white)
