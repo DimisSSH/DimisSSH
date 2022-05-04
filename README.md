@@ -24,6 +24,7 @@ All my Projects:
 
 Coding Languages I Know:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![CPP](https://img.shields.io/badge/C%2B%2B-cpp-yellowgreen?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![JS](https://img.shields.io/badge/JS-%23777BB4.svg?style=for-the-badge&logo=js&logoColor=white)
