@@ -2,7 +2,7 @@
 - 📷 YT: https://www.youtube.com/channel/UCLV6LRdSpP43Gh1dltZayrA
 - 📫 IG: https://instagram.com/dimis.north/
 - 💻 Proffesion: Networking/Game Development
-- 📵 Website: https://cypherdimis.cc/
+- 📵 Website: https://dimis.dev
 
 
 ![Dimis GitHub stats](https://github-readme-stats.vercel.app/api?username=DimisSSH&show_icons=true&theme=radical)
