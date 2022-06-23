@@ -1,4 +1,5 @@
 # Hello, Welcome To DimisSSH's GitHub #
+- 👀 Interest: C++, C#, LUA, PHP, JS
 - 📷 YT: https://www.youtube.com/channel/UCLV6LRdSpP43Gh1dltZayrA
 - 📫 IG: https://instagram.com/dimis.north/
 - 💻 Proffesion: Networking/Game Development
@@ -6,8 +7,6 @@
 
 
 ![Dimis GitHub stats](https://github-readme-stats.vercel.app/api?username=DimisSSH&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DimisSSH&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 All my Projects: 
 ![Dimis Services](https://img.shields.io/badge/DIMIS-SERVICES-red?style=for-the-badge&logo=DBs&logoColor=white)
